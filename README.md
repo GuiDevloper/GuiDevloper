@@ -5,4 +5,7 @@
 
 ### Already worked with many tools, like:
 
-<img height="110" src="https://skillicons.dev/icons?i=js,html,css,vue,webpack,ts,jest,mysql,nodejs,py,sass,tailwind,bootstrap,selenium" />
+<div>
+<img src="https://skillicons.dev/icons?i=js,html,css,vue,webpack,ts,jest,git" />
+<img src="https://skillicons.dev/icons?i=mysql,nodejs,py,sass,tailwind,bootstrap,selenium" />
+</div>
