@@ -5,4 +5,4 @@
 
 ### Already worked with many tools, like:
 
-<img height="50" src="https://skillicons.dev/icons?i=js,html,css,vue,webpack,ts,git,jest,mysql,nodejs,py,sass,tailwind,bootstrap,selenium" />
+<img height="110" src="https://skillicons.dev/icons?i=js,html,css,vue,webpack,ts,jest,mysql,nodejs,py,sass,tailwind,bootstrap,selenium" />
