@@ -6,14 +6,16 @@ const DATAtoString = DATA.map(section => {
 
 ${section.items
   .map(item => {
-    const urlTitle = encodeURI(item.title)
-    return `[![${item.title}](https://img.shields.io/badge/${urlTitle}-${
-      item.color
-    }?${new URLSearchParams({
+    const badgeName = `${encodeURI(item.title)}-${item.color}`
+    const domain = `https://img.shields.io/badge/${badgeName}`
+    const badgeParams = new URLSearchParams({
       style: 'flat-square',
-      logo: item.logo || urlTitle,
+      logo: item.logo || item.title,
       logoColor: item.logoColor || 'white'
-    })})](${item.link || ''})`
+    })
+    const finalBadge = `![${item.title}](${domain}?${badgeParams})`
+
+    return item.link ? `[${finalBadge}](${item.link})` : finalBadge
   })
   .join('\n')}`
 }).join('\n\n')
