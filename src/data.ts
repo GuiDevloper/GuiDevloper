@@ -110,13 +110,20 @@ export default [
         logoColor: '61DAFB'
       },
       {
+        title: 'Tailwind CSS',
+        color: '06B6D4',
+        link: 'https://tailwindcss.com/'
+      },
+      {
         title: 'Bootstrap',
-        color: '563D7C'
+        color: '563D7C',
+        link: 'https://getbootstrap.com'
       },
       {
         title: 'React',
         color: '20232a',
-        logoColor: '61DAFB'
+        logoColor: '61DAFB',
+        link: 'https://react.dev/'
       },
       {
         title: 'Angular',
