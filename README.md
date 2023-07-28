@@ -1,4 +1,5 @@
 <div align="center">
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuiDevloper&theme=radical"/><br>
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDevloper&layout=compact&langs_count=10&theme=radical"/>
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=GuiDevloper&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GuiDevloper's%20GitHub%20Stats"/>
 
